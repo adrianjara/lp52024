@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lpv-test": {
+      "hosting": {
+        "app": [
+          "lpv-test"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lpv-test"
+  }
+}
